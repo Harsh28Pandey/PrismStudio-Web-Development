@@ -37,3 +37,6 @@ All sections are styled using **custom CSS**, focusing on clean layout and mobil
 **Task Name:** E-Commerce Homepage with HTML/CSS  
 **Internship Program:** Prismstudio Web Development Internship  
 **Status:** ✅ Completed & Submitted  
+
+---
+

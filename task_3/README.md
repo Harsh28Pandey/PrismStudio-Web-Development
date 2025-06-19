@@ -51,7 +51,7 @@ Transform a basic landing page into an **interactive masterpiece** by integratin
 ## ✅ Submission Details
 
 **Task Name:** Stunning Interactive Landing Page
-**Internship Program:** Prismstudio Web Development Internship  
+<!-- **Internship Program:** Prismstudio Web Development Internship   -->
 **Status:** ✅ Completed & Submitted  
 
 ---

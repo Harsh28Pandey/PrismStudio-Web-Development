@@ -45,3 +45,11 @@ Transform a basic landing page into an **interactive masterpiece** by integratin
 - `style.css` – Styling with animations and responsiveness
 - `script.js` - Interactive JavaScript functionalities 
 - `README.md` – This file 
+
+---
+
+## ✅ Submission Details
+
+**Task Name:** Stunning Interactive Landing Page 
+**Internship Program:** Prismstudio Web Development Internship  
+**Status:** ✅ Completed & Submitted  

@@ -34,9 +34,9 @@ All components are built using **semantic HTML** and **custom CSS**, following b
 
 ## ✅ Submission Details
 
-**Task Name:** UI Components with HTML/CSS  
-**Internship Program:** Prismstudio Web Development Internship  
-**Status:** ✅ Completed & Submitted
+- **Task Name:** UI Components with HTML/CSS  
+- **Internship Program:** Prismstudio Web Development Internship  
+- **Status:** ✅ Completed & Submitted
 
 ---
 

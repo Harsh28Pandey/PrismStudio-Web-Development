@@ -10,7 +10,7 @@ This repository contains all the frontend development tasks assigned during my i
 - Task 1: Pixel-Perfect E-commerce Homepage  
 - Task 2: Reusable UI Components Style Guide  
 - Task 3: Interactive Landing Page with JavaScript  
-- Task 4: 
+- Task 4: Contact Form with Client-Side Validation
 
 ---
 

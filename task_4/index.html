@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact Us - PrismStudio</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="container">
+        <form id="contactForm" novalidate>
+            <h2>📬 Get in Touch</h2>
+
+            <div class="input-group">
+                <label for="name">Full Name *</label>
+                <input type="text" id="name" required />
+                <small class="error-message"></small>
+            </div>
+
+            <div class="input-group">
+                <label for="email">Email Address *</label>
+                <input type="email" id="email" required />
+                <small class="error-message"></small>
+            </div>
+
+            <div class="input-group">
+                <label for="subject">Subject</label>
+                <input type="text" id="subject" />
+            </div>
+
+            <div class="input-group">
+                <label for="message">Message *</label>
+                <textarea id="message" maxlength="500" required></textarea>
+                <small class="error-message"></small>
+            </div>
+
+            <button type="submit" id="submitBtn" disabled>
+                <span id="submitText">Send Message</span>
+                <span id="loader" class="loader hidden"></span>
+            </button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

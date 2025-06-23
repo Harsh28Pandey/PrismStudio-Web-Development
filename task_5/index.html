@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dynamic Animated Website</title>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header class="navbar">
+        <div class="logo">🚀 Animatrix</div>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#features">Features</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1 class="tracking-in-expand">Bring Your UI to Life!</h1>
+            <p class="fade-in-delay">Modern animations, subtle transitions, and sleek effects for a premium experience.
+            </p>
+            <button class="glow-on-hover" onclick="openModal()">Explore More</button>
+        </div>
+    </section>
+
+    <section id="features" class="features">
+        <div class="card zoom-in">✨ Smooth Hover</div>
+        <div class="card zoom-in">🔥 Scroll Reveal</div>
+        <div class="card zoom-in">🎯 Modal Popup</div>
+        <div class="card zoom-in">🌈 Gradient Effects</div>
+    </section>
+
+    <section id="contact" class="footer fade-in">
+        <p>Made with ❤️ by Harsh Pandey for PrismStudio Internship</p>
+    </section>
+
+    <div id="modal" class="modal">
+        <div class="modal-content slide-in-fwd-center">
+            <span onclick="closeModal()" class="close">&times;</span>
+            <h2>🚨 Modal Alert!</h2>
+            <p>This animated modal pops with style. Try customizing more!</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -29,7 +29,7 @@ This project showcases a dynamic, fully responsive landing page enriched with an
 
 ## ✅ Submission Details
 
-- **Task Name:** Client-Side Form Validation with JavaScript 
+- **Task Name:** Bringing UI to Life – Animations, Hover Effects & Smooth Transitions
 - **Internship Program:** Prismstudio Web Development Internship  
 - **Status:** ✅ Completed & Submitted  
 

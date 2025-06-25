@@ -1,4 +1,4 @@
-# 🌐 Task 4 - Clean Multi-Page Business Website
+# 🌐 Task 6 - Clean Multi-Page Business Website
 
 This repository contains a responsive, multi-page static business website built using only **HTML5** and **CSS3** as part of **Task 6** for the Web Development Internship.
 

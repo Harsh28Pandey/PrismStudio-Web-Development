@@ -13,6 +13,7 @@ This repository contains all the frontend development tasks assigned during my i
 - Task 4: Contact Form with Client-Side Validation
 - Task 5: Bringing UI to Life – Animations, Hover Effects & Smooth Transitions
 - Task 6: Clean Multi-Page Business Website
+- Task 7: Product Listing Page with Dynamic Filtering (Using JavaScript)
 
 ---
 

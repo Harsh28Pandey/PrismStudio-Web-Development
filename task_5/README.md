@@ -2,6 +2,8 @@
 
 This project showcases a dynamic, fully responsive landing page enriched with animations, transitions, and interaction effects to deliver an engaging user experience.
 
+---
+
 ## ✨ Features
 
 - 📱 Responsive design using Flexbox and Grid
@@ -12,11 +14,15 @@ This project showcases a dynamic, fully responsive landing page enriched with an
 - 🌈 Modal popup with blur and scale animation
 - 🧩 Underline reveal effect on navigation links
 
+---
+
 ## 🛠️ Built With
 
 - **HTML5** – Semantic layout
 - **CSS3** – Advanced keyframe animations and transitions
 - **JavaScript** – Scroll-based effects, modal controls
+
+---
 
 ## 📁 Folder Structure
 

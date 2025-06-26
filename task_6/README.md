@@ -2,6 +2,8 @@
 
 This repository contains a responsive, multi-page static business website built using only **HTML5** and **CSS3** as part of **Task 6** for the Web Development Internship.
 
+---
+
 ## 📌 Project Objective
 
 Build a **3–4 page website** (Home, About, Services, Contact) with a consistent layout and modular, reusable styles to mimic real-world static website structure — no frameworks or templating engines.

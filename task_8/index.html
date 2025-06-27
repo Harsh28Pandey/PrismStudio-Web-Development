@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advanced Cart System</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <h1>🛒 TrendyShop</h1>
+        <div id="cart-icon">
+            🧺 Cart (<span id="cart-count">0</span>)
+        </div>
+    </header>
+
+    <main>
+        <section class="product-list" id="product-list"></section>
+
+        <aside class="cart">
+            <h2>Your Cart</h2>
+            <ul id="cart-items"></ul>
+            <div class="summary">
+                <p>Total: ₹<span id="total-price">0</span></p>
+                <select id="payment-method">
+                    <option value="" disabled selected>Select Payment</option>
+                    <option value="UPI">UPI</option>
+                    <option value="Card">Credit/Debit Card</option>
+                    <option value="Cash">Cash on Delivery</option>
+                </select>
+                <div class="cart-actions">
+                    <button onclick="clearCart()">Clear Cart</button>
+                    <button onclick="checkout()">Purchase</button>
+                </div>
+            </div>
+        </aside>
+    </main>
+
+    <!-- Payment Modal -->
+    <div class="modal" id="payment-modal">
+        <div class="modal-content">
+            <h3>Thank You!</h3>
+            <p>Your order has been placed successfully 🎉</p>
+            <button onclick="closeModal()">Close</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

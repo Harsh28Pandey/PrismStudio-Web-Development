@@ -1,4 +1,3 @@
-@ -1,31 +0,0 @@
 # 💼 Web Development Internship @ Prismstudio
 
 Welcome to my official internship task repository.  

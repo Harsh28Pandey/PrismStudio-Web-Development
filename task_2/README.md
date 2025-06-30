@@ -18,8 +18,8 @@ All components are built using **semantic HTML** and **custom CSS**, following b
 
 ## 📂 Files Included
 
-- `index.html` – Contains the structure and layout of the components  
-- `style.css` – Custom styling for all components  
+- `index.html` – Contains the structure and layout of the components.
+- `style.css` – Custom styling for all components.
 - `README.md` – This file  
 
 ---

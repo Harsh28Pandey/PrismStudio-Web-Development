@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="checkout-container">
+        <h1>🛒 Dynamic Checkout Experience</h1>
+        <div id="cart-items"></div>
+        <div class="summary-box">
+            <p><strong>Subtotal:</strong> ₹<span id="subtotal">0</span></p>
+            <p><strong>Shipping:</strong> ₹<span id="shipping">0</span> <span id="badge"></span></p>
+            <p class="total-line"><strong>Total:</strong> ₹<span id="total">0</span></p>
+            <button class="place-order-btn" onclick="placeOrder()">✅ Place Order</button>
+        </div>
+        <div id="confirmation" class="confirmation hidden">
+            <p>🎉 Order Placed Successfully!</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

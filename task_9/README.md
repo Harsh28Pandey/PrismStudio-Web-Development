@@ -36,9 +36,9 @@ This project was built as part of the PrismStudio Web Development Internship. Th
 
 ## 📁 Folder Structure
 
-- `index.html` – Defines layout, cart UI, and modal structure for website.
-- `style.css` – Adds advanced styling, hover effects, animations, and responsive layout.
-- `script.js` - andles cart logic, updates, payment flow, and dynamic rendering.
+- `index.html` – Checkout structure with cart summary and order placement interface.
+- `style.css` – Modern, animated, responsive checkout UI with elegant glassmorphism.
+- `script.js` - Handles cart rendering, calculations, order placement, and item removal.
 - `README.md` – This file 
 
 ---

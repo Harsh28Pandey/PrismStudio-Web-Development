@@ -41,9 +41,9 @@ Transform a basic landing page into an **interactive masterpiece** by integratin
 
 ## 📦 Folder Structure
 
-- `index.html` – Main HTML page with structure
-- `style.css` – Styling with animations and responsiveness
-- `script.js` - Interactive JavaScript functionalities 
+- `index.html` – Main HTML page with structure.
+- `style.css` – Styling with animations and responsiveness.
+- `script.js` - Interactive JavaScript functionalities.
 - `README.md` – This file 
 
 ---

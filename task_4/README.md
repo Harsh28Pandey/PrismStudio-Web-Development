@@ -29,9 +29,9 @@ Created a fully validated contact form with the following features:
 
 ## 📁 Folder Structure
 
-- `index.html` – Main HTML structure for the contact form UI
-- `style.css` – CSS for styling: layout, animations, dark mode, responsiveness
-- `script.js` - JavaScript for form validation, real-time feedback, and interactivity
+- `index.html` – Main HTML structure for the contact form UI.
+- `style.css` – CSS for styling: layout, animations, dark mode, responsiveness.
+- `script.js` - JavaScript for form validation, real-time feedback, and interactivity.
 - `README.md` – This file 
 
 ---

@@ -15,6 +15,7 @@ This repository contains all the frontend development tasks assigned during my i
 - Task 6: Clean Multi-Page Business Website
 - Task 7: Product Listing Page with Dynamic Filtering (Using JavaScript)
 - Task 8: Add to Cart Functionality (Frontend Only)
+- Task 9: Create a Functional Checkout Page with Dynamic Cart Summary
 
 ---
 

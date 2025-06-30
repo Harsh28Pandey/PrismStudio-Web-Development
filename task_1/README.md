@@ -18,8 +18,8 @@ All sections are styled using **custom CSS**, focusing on clean layout and mobil
 
 ## 📂 Files Included
 
-- `index.html` – Contains the structure and layout of the homepage  
-- `style.css` – Custom styling for all sections  
+- `index.html` – Contains the structure and layout of the homepage.  
+- `style.css` – Custom styling for all sections.  
 - `README.md` – This file  
 
 ---

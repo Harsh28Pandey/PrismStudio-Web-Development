@@ -1,4 +1,4 @@
-# Task 8: 🛒 Add to Cart Functionality (Frontend Only)
+# 🛒 Task 8: Add to Cart Functionality (Frontend Only)
 
 This project is a fully functional **frontend e-commerce cart simulation** built using **HTML, CSS, and JavaScript**, designed to showcase dynamic cart operations, payment options, and beautiful UI interactions — all handled entirely on the client side.
 

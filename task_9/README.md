@@ -1,4 +1,4 @@
-# Task 9: 🛒 Create a Functional Checkout Page with Dynamic Cart Summary
+# 🛒 Task 9: Create a Functional Checkout Page with Dynamic Cart Summary
 
 A clean, interactive, and realistic simulation of a checkout page that mimics real-world e-commerce flows like those seen on Amazon, Flipkart, or Swiggy — built using only HTML, CSS, and JavaScript.
 

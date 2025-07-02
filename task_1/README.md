@@ -9,7 +9,7 @@ In this task, I created a modern and responsive **E-Commerce homepage** that inc
 - ✅ Semantic HTML structure  
 - ✅ Responsive navigation bar  
 - ✅ Hero section with background image and CTA  
-- ✅ Featured product cards with real images  
+- ✅ Featured product cards with real images
 - ✅ Footer with copyright  
 
 All sections are styled using **custom CSS**, focusing on clean layout and mobile responsiveness.

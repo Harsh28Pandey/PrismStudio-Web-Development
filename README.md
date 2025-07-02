@@ -116,3 +116,5 @@ Here’s a collection of exciting, visually polished, and fully responsive tasks
 > 🏢 **Internship Organization:** PrismStudio  
 > 👨‍💻 **Role:** Web Development Intern  
 > 🧑‍🎓 **Intern:** Harsh Pandey  
+
+---

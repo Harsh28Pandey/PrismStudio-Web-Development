@@ -1,4 +1,4 @@
-# Task 7: 🛍️ Product Listing Page with Dynamic Filtering (Using JavaScript)
+# 🛍️ Task 7: Product Listing Page with Dynamic Filtering (Using JavaScript)
 
 A responsive and feature-rich product store built using **HTML**, **CSS**, and **JavaScript**. This project includes modern UI, product filtering, sorting, search functionality, and a fully functional cart system with a "Proceed to Buy" button.
 
